@@ -1,0 +1,13 @@
+- get the data online
+- organise the data so that it's ready to be used for modelling
+
+- use the rational method: estimate areas with different coefficients of infiltration in the catchment
+- calibration / validation
+
+- use the linear reservoir method
+
+- use a temperature index snowmelt model
+
+- use a landscape-based 3-component model (see Prof. Hubert Savenije: Breakthroughs in landscape-based rainfall-runoff)
+
+- use HBV NVE
