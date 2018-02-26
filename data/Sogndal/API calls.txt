@@ -1,0 +1,3 @@
+http://h-web01.nve.no/chartserver/ShowData.aspx?req=getchart&ver=1.0&vfmt=text&time=20151001T0000;20180227T0000&chs=1369x718&lang=no&chlf=desc&chsl=0;+0&chd=ds=htsr,da=29,id=77.24.0.17.2,rt=0,cht=line,mth=inst|ds=htsry,id=hydx[77;24;0;17;2].6000,mth=inst,rt=0,cht=line|ds=htsr,da=29,id=77.24.0.17.2,rt=1:00,cht=line,mth=inst|ds=htsry,id=hydx[77;24;0;17;2].6000,mth=inst,rt=1:00,cht=line|ds=htsr,da=29,id=77.24.0.17.2,rt=1,cht=line,mth=mean|ds=htsry,id=hydx[77;24;0;17;2].6000,mth=inst,rt=1,cht=line&nocache=0.8947860963623908
+
+for Anestoelen Temp
